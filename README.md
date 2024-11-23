@@ -11,6 +11,11 @@
 
 - 🏅 I’m currently learning **Data Structures & Algorithms**
 
+<p align="center">
+  <img src="./hell.png" alt="Beautiful" />
+</p>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TuShArBhArDwA/TuShArBhArDwA/blob/output/github-contribution-grid-snake.svg">
