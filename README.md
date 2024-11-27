@@ -1,4 +1,4 @@
-
+<h1>Hi there 👋</h1>
 <h1 align="center"><p align="left">
  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&lines=;My+self+Mayank+Gupta;Welcome+to+my+GitHub;I'm+a+programmer;I'm+a+LeetCoder;I'm+a+Developer;">
