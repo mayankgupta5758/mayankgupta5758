@@ -11,9 +11,12 @@
 
 - 🏅 I’m currently learning **Data Structures & Algorithms**
 
-<p align="center">
-  <img src="./hell.png" alt="Beautiful" />
-</p>
+<div style="display: flex; gap: 15px;">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="120px">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="120px">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="120px">
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="120px">
+</div>
 
 
 
